@@ -1,0 +1,7 @@
+#10.1
+a = list(range(5,-10,-2))
+
+#10.2
+b = input()
+c = tuple(range(-10, 10, int(b)))
+print(c)
